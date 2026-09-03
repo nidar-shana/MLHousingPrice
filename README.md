@@ -1,2 +1,2 @@
 # MLHousingPrice
-Housing Price Comparison using Machine Learning techniques.
+Housing Price Comparison using Machine Learning techniques using Python.
